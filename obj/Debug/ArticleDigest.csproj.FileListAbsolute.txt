@@ -1,0 +1,9 @@
+C:\CUSTOM SOFTWARE\ArticleDigest\bin\Debug\ArticleDigest.exe.config
+C:\CUSTOM SOFTWARE\ArticleDigest\bin\Debug\ArticleDigest.exe
+C:\CUSTOM SOFTWARE\ArticleDigest\bin\Debug\ArticleDigest.pdb
+C:\CUSTOM SOFTWARE\ArticleDigest\obj\Debug\ArticleDigest.csprojResolveAssemblyReference.cache
+C:\CUSTOM SOFTWARE\ArticleDigest\obj\Debug\ArticleDigest.exe
+C:\CUSTOM SOFTWARE\ArticleDigest\obj\Debug\ArticleDigest.pdb
+C:\CUSTOM SOFTWARE\Github\ArticleDigest\bin\Debug\ArticleDigest.exe.config
+C:\CUSTOM SOFTWARE\Github\ArticleDigest\obj\Debug\ArticleDigest.exe
+C:\CUSTOM SOFTWARE\Github\ArticleDigest\obj\Debug\ArticleDigest.pdb
